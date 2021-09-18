@@ -1,7 +1,7 @@
 # Accused-detacation
 <h1>Step 1</h1>
 <h2>clone the project by typing this cmd</h2>
-<pre>git clone https://github.com/pradeepodela/Accused-detacation</pre>
+<pre>git clone https://github.com/pradeepodela/Accused-detection</pre>
 
 <h1>Step 2</h1>
 <pre>cd Accused-detacation</pre>
