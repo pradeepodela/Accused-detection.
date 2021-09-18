@@ -31,9 +31,9 @@ def findEncodings(images):
     return encodeList
 
 def email(frame,mail,time):
-    Sender_Email = "odelapradeep12@gmail.com"
+    Sender_Email = "XXXXXXXXXXXXX" #enter your email
     Reciever_Email = mail
-    Password = '@pradeep9246'
+    Password = 'XXXXXXXXXXXXXXXX' #enter your password
     img = frame
     newMessage = EmailMessage()                         
     newMessage['Subject'] = "Accused found !!!!!!!" 
