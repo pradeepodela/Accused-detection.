@@ -50,7 +50,7 @@ def email(frame,mail,time):
 
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         
-        smtp.login(Sender_Email, Password)              
+        smtp.login(Sender_Email, Password)               
         smtp.send_message(newMessage)
     print('success msg went')
 
