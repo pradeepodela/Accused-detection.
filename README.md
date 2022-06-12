@@ -1,4 +1,9 @@
 # Accused-detacation
+
+
+<h1>Here's the demo of the project</h1>
+
+https://user-images.githubusercontent.com/72432569/133887723-df3afcc4-deeb-4892-ac6e-55604a69f97d.mp4
 <h1>Step 1</h1>
 <h2>clone the project by typing this cmd</h2>
 <pre>git clone https://github.com/pradeepodela/Accused-detection.</pre>
@@ -16,7 +21,5 @@
 <h2> now run the file using this cmd </h2>
 <pre>python main.py</pre>
 
-<h1>Here's the demo of the project</h1>
 
-https://user-images.githubusercontent.com/72432569/133887723-df3afcc4-deeb-4892-ac6e-55604a69f97d.mp4
 
